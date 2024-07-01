@@ -1,0 +1,24 @@
+.stButton > button{
+    background: linear-gradient(135deg, #2EA5E9, #395EC8);
+    color: white;
+
+
+}
+.stButton > button:hover{
+    background-color: linear-gradient(135deg, #2EA5E9, #395EC8);
+    color: white;
+    border-color: white;
+}
+
+#dailybot {
+   background: linear-gradient(135deg, #2EA5E9, #395EC8);
+   -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 36px;
+        font-weight: bold;
+}
+
+stTextInput > div > input:hover {
+        color: #2EA5E9;
+        border-color: #2EA5E9;
+    }
